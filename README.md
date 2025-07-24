@@ -50,7 +50,7 @@ Minimized
 
 ## 🧩 Folder Structure
 
-```
+```text
 Quiz-React-app/
 ├── public/
 │   └── quiz.svg               # Logo or assets
@@ -78,26 +78,27 @@ Quiz-React-app/
 ### Prerequisites
 
 Make sure you have Node.js and npm installed:
-```
+
+```bash
 node -v
 npm -v
 ```
 
 ### Install dependencies
 
-```
+```bash
 npm install
 ```
 
 ### Start the app in dev mode
 
-```
+```bash
 npm run dev
 ```
 
 ### Build for production
 
-```
+```bash
 npm run build
 ```
 
@@ -121,6 +122,7 @@ See the [LICENSE](./LICENSE) file for details.
 ## ⭐️ Support / Contribute
 
 If you like this project:
+
 - Give it a ⭐️ on GitHub
 - Fork and contribute new features or questions
 - Suggest improvements via issues
